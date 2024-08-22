@@ -1,1 +1,2 @@
 D:GithubEvent_Organizing_Web_Application filter=lfs diff=lfs merge=lfs -text
+Event_Organizing_Web_Application_Frontend filter=lfs diff=lfs merge=lfs -text
